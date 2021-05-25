@@ -1,4 +1,5 @@
 # SpaceRat's Cow Archive
+btw u can press ctrl+F to search for a specific cow file! just a funky tip u might not have known
 ## (For Cowsay)
 Feel free to use any of my .cow files!
 A lot of these are memes n stuff.
